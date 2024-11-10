@@ -1,0 +1,460 @@
+{
+    "c2array": true,
+    "size": [
+        9,
+        16,
+        1
+    ],
+    "data": [
+        [
+            [
+                "SHOP"
+            ],
+            [
+                "SELECT"
+            ],
+            [
+                "BUY"
+            ],
+            [
+                "CHOOSE AND PLAY!"
+            ],
+            [
+                "MOVES"
+            ],
+            [
+                "TIME"
+            ],
+            [
+                "Objective: Arrange all cards in the Foundations from Ace to King. Build cards in the Tableau in descending order, alternating colors (e.g., red on black). If no moves are available, draw cards from the Stock and use them. When the Stock is empty, reshuffle to start a new round. Win by completing all Foundations."
+            ],
+            [
+                "NEXT"
+            ],
+            [
+                "WIN!"
+            ],
+            [
+                "FIND ACE OF HEARTS!"
+            ],
+            [
+                "MIX"
+            ],
+            [
+                "SCORE"
+            ],
+            [
+                "Objective: Find the correct card after shuffling. At the start, cards are face-up – memorize them for 5 seconds. The cards are flipped face down, then press MIX to shuffle. After shuffling, locate the red card and select it. If correct – you win!"
+            ],
+            [
+                "Cards: Jack, Queen, and King – each with 30 HP and 25 damage. Damage Bonuses: King +8 against Queen, Queen +8 against Jack, Jack +8 against King (+12 if same suit). HP Boosts: Cards of the same color increase HP by their number; Ace adds +15 HP. Objective – reduce the opponent's HP to zero using bonuses and boosts strategically."
+            ],
+            [
+                "END TURN"
+            ],
+            [
+                "ATTACK"
+            ]
+        ],
+        [
+            [
+                "Магазин"
+            ],
+            [
+                "Выбрать"
+            ],
+            [
+                "Купить"
+            ],
+            [
+                "Выбери и играй!"
+            ],
+            [
+                "Ходы"
+            ],
+            [
+                "Время"
+            ],
+            [
+                "Задача: Расположите все карты в Фундаментах от Туза до Короля. Постройте карты в Табло в порядке убывания, чередуя цвета (например, красный на черном). Если ходов нет, возьмите карты из Запаса и используйте их. Когда Запас пуст, перемешайте, чтобы начать новый раунд. Выиграйте, заполнив все Фундаменты."
+            ],
+            [
+                "Далее"
+            ],
+            [
+                "Победа!"
+            ],
+            [
+                "Найдите Туза червей!"
+            ],
+            [
+                "Перемешать"
+            ],
+            [
+                "Счет"
+            ],
+            [
+                "Задача: Найдите правильную карту после перемешивания. В начале карты открыты – запомните их за 5 секунд. Затем карты переворачиваются рубашкой вверх, нажмите на кнопку \"Перемешать\", чтобы перемешать их. После перемешивания найдите красную карту и выберите ее. Если правильно – вы победили!"
+            ],
+            [
+                "Карты: Валет, Дама и Король – каждая с 30 ОЗ и 25 уроном. Бонусы урона: Король +8 против Дамы, Дама +8 против Валета, Валет +8 против Короля (+12, если та же масть). Бусты ОЗ: Карты одного цвета увеличивают ОЗ на свой номер; Туз добавляет +15 ОЗ. Цель – уменьшить ОЗ противника до нуля, используя бонусы и бусты стратегически."
+            ],
+            [
+                "Закончить ход"
+            ],
+            [
+                "Атака"
+            ]
+        ],
+        [
+            [
+                "Geschäft"
+            ],
+            [
+                "Auswählen"
+            ],
+            [
+                "Kaufen"
+            ],
+            [
+                "Wählen und spielen!"
+            ],
+            [
+                "Züge"
+            ],
+            [
+                "Zeit"
+            ],
+            [
+                "Ziel: Ordnen Sie alle Karten in den Foundations von Ass bis König. Bauen Sie die Karten im Tableau in absteigender Reihenfolge auf, indem Sie die Farben abwechseln (z. B. rot auf schwarz). Wenn keine Züge verfügbar sind, ziehen Sie Karten aus dem Vorrat und verwenden Sie sie. Wenn der Vorrat leer ist, mischen Sie neu, um eine neue Runde zu starten. Gewinnen Sie, indem Sie alle Foundations abschließen."
+            ],
+            [
+                "Weiter"
+            ],
+            [
+                "Gewonnen!"
+            ],
+            [
+                "Finden Sie das Herz-Ass!"
+            ],
+            [
+                "Mischen"
+            ],
+            [
+                "Punktestand"
+            ],
+            [
+                "Ziel: Finden Sie die richtige Karte nach dem Mischen. Zu Beginn sind die Karten aufgedeckt – merken Sie sie sich für 5 Sekunden. Dann werden die Karten verdeckt, drücken Sie \"Mischen\" zum Mischen. Nach dem Mischen finden Sie die rote Karte und wählen Sie sie aus. Wenn korrekt – Sie gewinnen!"
+            ],
+            [
+                "Karten: Bube, Dame und König – jeweils mit 30 HP und 25 Schaden. Schadensboni: König +8 gegen Dame, Dame +8 gegen Bube, Bube +8 gegen König (+12, wenn gleiche Farbe). HP-Boosts: Karten derselben Farbe erhöhen die HP um ihren Wert; Ass gibt +15 HP. Ziel – reduzieren Sie die HP des Gegners auf null, indem Sie Boni und Boosts strategisch nutzen."
+            ],
+            [
+                "Zug beenden"
+            ],
+            [
+                "Angriff"
+            ]
+        ],
+        [
+            [
+                "Tienda"
+            ],
+            [
+                "Seleccionar"
+            ],
+            [
+                "Comprar"
+            ],
+            [
+                "¡Elige y juega!"
+            ],
+            [
+                "Movimientos"
+            ],
+            [
+                "Tiempo"
+            ],
+            [
+                "Objetivo: Coloca todas las cartas en las Fundaciones desde As hasta Rey. Coloca las cartas en el Tablero en orden descendente, alternando colores (por ejemplo, rojo sobre negro). Si no hay movimientos disponibles, toma cartas de la Reserva y úsalas. Cuando la Reserva esté vacía, baraja para comenzar una nueva ronda. Gana completando todas las Fundaciones."
+            ],
+            [
+                "Siguiente"
+            ],
+            [
+                "¡Ganaste!"
+            ],
+            [
+                "¡Encuentra el As de Corazones!"
+            ],
+            [
+                "Mezclar"
+            ],
+            [
+                "Puntuación"
+            ],
+            [
+                "Objetivo: Encuentra la carta correcta después de mezclar. Al principio, las cartas están boca arriba – memorízalas durante 5 segundos. Luego, las cartas se voltean hacia abajo, presiona \"Mezclar\" para barajar. Después de barajar, localiza la carta roja y selecciónala. ¡Si es correcto – ganas!"
+            ],
+            [
+                "Cartas: Jota, Reina y Rey – cada una con 30 PV y 25 de daño. Bonificaciones de daño: Rey +8 contra Reina, Reina +8 contra Jota, Jota +8 contra Rey (+12 si es del mismo palo). Aumentos de PV: Las cartas del mismo color aumentan los PV en su número; el As suma +15 PV. Objetivo – reduce los PV del oponente a cero usando estratégicamente bonificaciones y aumentos."
+            ],
+            [
+                "Terminar turno"
+            ],
+            [
+                "Ataque"
+            ]
+        ],
+        [
+            [
+                "Magasin"
+            ],
+            [
+                "Sélectionner"
+            ],
+            [
+                "Acheter"
+            ],
+            [
+                "Choisis et joue !"
+            ],
+            [
+                "Mouvements"
+            ],
+            [
+                "Temps"
+            ],
+            [
+                "Objectif : Disposez toutes les cartes dans les Fondations de l'As au Roi. Disposez les cartes dans le Tableau en ordre décroissant, en alternant les couleurs (par exemple, rouge sur noir). Si aucun coup n'est disponible, tirez des cartes du Stock et utilisez-les. Lorsque le Stock est vide, mélangez pour commencer un nouveau tour. Gagnez en complétant toutes les Fondations."
+            ],
+            [
+                "Suivant"
+            ],
+            [
+                "Gagné !"
+            ],
+            [
+                "Trouvez l'As de Cœurs !"
+            ],
+            [
+                "Mélanger"
+            ],
+            [
+                "Score"
+            ],
+            [
+                "Objectif : Trouvez la carte correcte après mélange. Au début, les cartes sont face visible – mémorisez-les pendant 5 secondes. Ensuite, les cartes sont retournées, appuyez sur \"Mélanger\" pour mélanger. Après le mélange, localisez la carte rouge et sélectionnez-la. Si c'est correct – vous gagnez !"
+            ],
+            [
+                "Cartes : Valet, Dame et Roi – chacun avec 30 PV et 25 dégâts. Bonus de dégâts : Roi +8 contre Dame, Dame +8 contre Valet, Valet +8 contre Roi (+12 si même couleur). Boosts de PV : Les cartes de la même couleur augmentent les PV de leur nombre ; As ajoute +15 PV. Objectif – réduire les PV de l'adversaire à zéro en utilisant stratégiquement les bonus et boosts."
+            ],
+            [
+                "Fin du tour"
+            ],
+            [
+                "Attaque"
+            ]
+        ],
+        [
+            [
+                "Negozio"
+            ],
+            [
+                "Selezionare"
+            ],
+            [
+                "Acquistare"
+            ],
+            [
+                "Scegli e gioca!"
+            ],
+            [
+                "Mosse"
+            ],
+            [
+                "Tempo"
+            ],
+            [
+                "Obiettivo: Disponi tutte le carte nei Fondamenti dall'Asso al Re. Costruisci le carte nel Tableau in ordine decrescente, alternando i colori (es. rosso su nero). Se non ci sono mosse disponibili, prendi carte dal Mazzo e usale. Quando il Mazzo è vuoto, rimescola per iniziare un nuovo round. Vinci completando tutti i Fondamenti."
+            ],
+            [
+                "Successivo"
+            ],
+            [
+                "Vittoria!"
+            ],
+            [
+                "Trova l'Asso di Cuori!"
+            ],
+            [
+                "Mescolare"
+            ],
+            [
+                "Punteggio"
+            ],
+            [
+                "Obiettivo: Trova la carta corretta dopo aver mescolato. All'inizio, le carte sono scoperte – memorizzale per 5 secondi. Le carte vengono poi girate, premi \"Mescolare\" per mescolare. Dopo aver mescolato, trova la carta rossa e selezionala. Se è corretto – vinci!"
+            ],
+            [
+                "Carte: Fante, Regina e Re – ciascuna con 30 PV e 25 danni. Bonus danni: Re +8 contro Regina, Regina +8 contro Fante, Fante +8 contro Re (+12 se dello stesso seme). Aumenti PV: Le carte dello stesso colore aumentano i PV per il loro numero; Asso aggiunge +15 PV. Obiettivo – ridurre a zero i PV dell'avversario utilizzando strategicamente bonus e aumenti."
+            ],
+            [
+                "Fine turno"
+            ],
+            [
+                "Attacco"
+            ]
+        ],
+        [
+            [
+                "Loja"
+            ],
+            [
+                "Selecionar"
+            ],
+            [
+                "Comprar"
+            ],
+            [
+                "Escolha e jogue!"
+            ],
+            [
+                "Movimentos"
+            ],
+            [
+                "Tempo"
+            ],
+            [
+                "Objetivo: Arranje todas as cartas nas Fundações de Ás a Rei. Construa cartas no Tableau em ordem decrescente, alternando as cores (por exemplo, vermelho sobre preto). Se não houver movimentos disponíveis, retire cartas do Estoque e use-as. Quando o Estoque estiver vazio, embaralhe para começar uma nova rodada. Ganhe completando todas as Fundações."
+            ],
+            [
+                "Próximo"
+            ],
+            [
+                "Vitória!"
+            ],
+            [
+                "Encontre o Ás de Copas!"
+            ],
+            [
+                "Misturar"
+            ],
+            [
+                "Pontuação"
+            ],
+            [
+                "Objetivo: Encontre a carta correta após embaralhar. No início, as cartas estão com a face para cima – memorize-as por 5 segundos. Em seguida, as cartas são viradas para baixo, pressione \"Misturar\" para embaralhar. Após embaralhar, localize a carta vermelha e selecione-a. Se correto – você ganha!"
+            ],
+            [
+                "Cartas: Valete, Dama e Rei – cada uma com 30 HP e 25 de dano. Bônus de dano: Rei +8 contra Dama, Dama +8 contra Valete, Valete +8 contra Rei (+12 se do mesmo naipe). Aumentos de HP: Cartas da mesma cor aumentam HP pelo seu número; Ás adiciona +15 HP. Objetivo – reduzir o HP do oponente a zero usando bônus e aumentos estrategicamente."
+            ],
+            [
+                "Terminar turno"
+            ],
+            [
+                "Ataque"
+            ]
+        ],
+        [
+            [
+                "متجر"
+            ],
+            [
+                "اختر"
+            ],
+            [
+                "شراء"
+            ],
+            [
+                "اختر والعب!"
+            ],
+            [
+                "تحركات"
+            ],
+            [
+                "وقت"
+            ],
+            [
+                "الهدف: قم بترتيب جميع البطاقات في الأسس من الآس إلى الملك. قم بترتيب البطاقات في التابلوه بترتيب تنازلي، بالتناوب بين الألوان (على سبيل المثال، الأحمر فوق الأسود). إذا لم تكن هناك حركات متاحة، اسحب البطاقات من المخزون واستخدمها. عندما يكون المخزون فارغًا، أعد الترتيب لبدء جولة جديدة. اربح بإكمال جميع الأسس."
+            ],
+            [
+                "التالي"
+            ],
+            [
+                "فوز!"
+            ],
+            [
+                "ابحث عن الآس القلوب!"
+            ],
+            [
+                "خلط"
+            ],
+            [
+                "النتيجة"
+            ],
+            [
+                "الهدف: ابحث عن البطاقة الصحيحة بعد الخلط. في البداية، تكون البطاقات مكشوفة – احفظها لمدة 5 ثوانٍ. ثم تقلب البطاقات لأسفل، اضغط على \"خلط\" للخلط. بعد الخلط، حدد البطاقة الحمراء واخترها. إذا كانت صحيحة – تفوز!"
+            ],
+            [
+                "بطاقات: جاك، ملكة وملك – كل منها يحتوي على 30 نقطة صحة و25 ضرر. مكافآت الضرر: الملك +8 ضد الملكة، الملكة +8 ضد جاك، جاك +8 ضد الملك (+12 إذا كانت من نفس النوع). تعزيزات الصحة: بطاقات من نفس اللون تزيد من الصحة حسب رقمها؛ الآس يضيف +15 صحة. الهدف – تقليل صحة الخصم إلى الصفر باستخدام المكافآت والتعزيزات استراتيجيًا."
+            ],
+            [
+                "إنهاء الدور"
+            ],
+            [
+                "هجوم"
+            ]
+        ],
+        [
+            [
+                "Магазин"
+            ],
+            [
+                "Вибрати"
+            ],
+            [
+                "Купити"
+            ],
+            [
+                "Обери та грай!"
+            ],
+            [
+                "Ходи"
+            ],
+            [
+                "Час"
+            ],
+            [
+                "Мета: Розмістіть всі карти у Фундаментах від Туза до Короля. Розміщуйте карти на Табло в порядку спадання, чергуючи кольори (наприклад, червоний на чорному). Якщо немає доступних ходів, візьміть карти з Запасу та використовуйте їх. Коли Запас порожній, перетасуйте, щоб почати новий раунд. Виграйте, заповнивши всі Фундаменти."
+            ],
+            [
+                "Далі"
+            ],
+            [
+                "Перемога!"
+            ],
+            [
+                "Знайдіть Туза черв'яків!"
+            ],
+            [
+                "Перемішати"
+            ],
+            [
+                "Рахунок"
+            ],
+            [
+                "Мета: Знайдіть правильну карту після перемішування. Спочатку карти відкриті – запам'ятайте їх за 5 секунд. Потім карти перевертаються, натисніть \"Перемішати\" для перемішування. Після перемішування знайдіть червону карту і оберіть її. Якщо правильно – ви виграли!"
+            ],
+            [
+                "Карти: Валет, Дама і Король – кожна з 30 ОЗ і 25 шкоди. Бонуси шкоди: Король +8 проти Дами, Дама +8 проти Валета, Валет +8 проти Короля (+12, якщо та сама масть). Бонуси ОЗ: Карти того ж кольору збільшують ОЗ на свій номер; Туз додає +15 ОЗ. Мета – зменшити ОЗ противника до нуля, використовуючи бонуси і бусти стратегічно."
+            ],
+            [
+                "Закінчити хід"
+            ],
+            [
+                "Атака"
+            ]
+        ]
+    ]
+}
